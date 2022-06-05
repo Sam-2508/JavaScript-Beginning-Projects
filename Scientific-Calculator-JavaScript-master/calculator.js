@@ -1,7 +1,3 @@
-/* ------------------------------------------------- */
-/*                By Code Explained                  */
-/*          www.youtube.com/Code Explained           */
-/* ------------------------------------------------- */
 
 // CALCULATOR BUTTONS
 let calculator_buttons = [
